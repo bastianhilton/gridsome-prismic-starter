@@ -57,6 +57,9 @@
             <p class="mbr-text mb-0 mbr-fonts-style display-4">
               © Copyright 2030 <a href="/">Gridsome Prismic Starter</a> - All Rights Reserved
             </p>
+            <p class="mbr-text mb-0 mbr-fonts-style display-4">
+              Built by <a href="https://www.sebastianhilton.com">Sebastian Hilton</a>
+            </p>
           </div>
         </div>
       </div>
