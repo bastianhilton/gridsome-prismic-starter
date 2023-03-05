@@ -1,0 +1,13 @@
+{
+  "name": "gridsome-starter-prismic",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "gridsome-source-graphql-prismic": "^0.1.6"
+  }
+}
